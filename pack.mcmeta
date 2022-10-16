@@ -1,6 +1,16 @@
 {
   "pack": {
     "pack_format": 9,
-    "description": "BoatFly Server Pack"
+    "description": [
+      {
+        "text": "BoatFly Server Pack",
+        "color": "green"
+      },
+      {
+        "text": "给服务器提供空岛间的移动方式\nby zhongbai233",
+        "color": "gold"
+      }
+    ],
+    "version": "0.0.2"
   }
 }
